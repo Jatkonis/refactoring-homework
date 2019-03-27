@@ -1,0 +1,4 @@
+﻿Task:
+1- Look at the classes in folder BEFORE, understand what it does, and refactor it (if it needs to be) in a way you think is right.
+2- If you make changes, be ready to explain why you made them; also, identify problem parts in existing code, if any. 
+3- If you make any changes, clone existing classes into the AFTER folder and make your changes there.

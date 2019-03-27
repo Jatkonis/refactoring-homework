@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Refactoring.Core\Refactoring.Core.csproj" />
+    <ProjectReference Include="..\Refactoring.Core\Refactoring.Core.csproj" />
   </ItemGroup>
 
 </Project>
