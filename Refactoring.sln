@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring.Core", "..\Refactoring.Core\Refactoring.Core.csproj", "{46F246F7-806F-4263-8F53-FC3A5CBCA3EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring.Console", "Refactoring.Console\Refactoring.Console.csproj", "{EA12AF9B-DEAF-4EAE-999B-4861B203E482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F246F7-806F-4263-8F53-FC3A5CBCA3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F246F7-806F-4263-8F53-FC3A5CBCA3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F246F7-806F-4263-8F53-FC3A5CBCA3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F246F7-806F-4263-8F53-FC3A5CBCA3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA12AF9B-DEAF-4EAE-999B-4861B203E482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA12AF9B-DEAF-4EAE-999B-4861B203E482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA12AF9B-DEAF-4EAE-999B-4861B203E482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA12AF9B-DEAF-4EAE-999B-4861B203E482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A18FE839-BC85-4714-B655-F5E2455B2297}
+	EndGlobalSection
+EndGlobal
